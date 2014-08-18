@@ -1,7 +1,7 @@
 Call tracing using gcc's in-built function profiling tools
 ============================================================
 
-<i>Language:</i> C++
+<i>Language:</i> C++ <br>
 <i>Usage:</i>
 <pre>
 	make; ./main
